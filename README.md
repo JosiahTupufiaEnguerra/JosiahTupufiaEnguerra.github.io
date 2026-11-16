@@ -8,8 +8,8 @@ A responsive, accessible static portfolio for GitHub Pages. Open `index.html` in
 - Verify the biography, career interests, skills, experience, and project descriptions. These are draft descriptions based on coursework; confirm that each describes your own implementation.
 - Contact email and GitHub profile have been added. Verify them before publishing.
 - Add repository/demo links for the three projects when available, replacing each “Repository link pending” label with a real link. Follow course rules before publishing assignment source code.
-- Add your resume as `resume.pdf` beside `index.html`, then replace the resume notice with `<a class="button" href="resume.pdf">Download resume (PDF)</a>`.
-- Add employer names and dates if you want them displayed. Remove the draft notices once these items are complete.
+- Review `resume.pdf`; confirm education details, employment dates, role title, and project claims. The website links to this draft.
+- Shalhout and Sons Inc. is listed as the employer; confirm employment dates for the resume. Remove the draft notices once these items are complete.
 - Optional: add an appropriate photo and project screenshots with descriptive alternative text.
 
 ## GitHub Pages setup
@@ -31,7 +31,7 @@ A responsive, accessible static portfolio for GitHub Pages. Open `index.html` in
 ## Assignment status
 
 - Home, About, three WIP Projects, Skills, Experience: drafted; verify accuracy.
-- Resume: section present; actual PDF still required.
+- Resume: draft PDF included; verify content and add employment dates and graduation information before using for applications.
 - Contact: email and GitHub profile included.
 - Faculty feedback: must be completed in class.
 - GitHub Pages publication and live link testing: not performed.
